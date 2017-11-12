@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function terepo-to() {
+function terepoto() {
     const there = magik.memento.getItem();
     if (there) {
         magik.ianuae(there);
